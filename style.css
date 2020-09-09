@@ -1,0 +1,28 @@
+body {
+  margin: 0px;
+  background-color: aqua;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  
+}
+h1, h2 {
+  text-align: center;
+}
+.signing {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-family: 'Krona One', sans-serif;
+    padding: 10px;
+}
+
+p a{
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
